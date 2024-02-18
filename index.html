@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ParrotMap | FIME</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ParrotMap | FIME</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id="canvas" style="width: 600px; height: 630px;"></div>
-
-    <script src="scripts.js"></script>
-    <script src="/librerias/raphael-2.3.0/raphael.min.js"></script>
-
-    <script>
-        window.onload = function() {
-        let canvas = Raphael("canvas", 600, 630);
-
-        canvas.image("/public/maps/Campus_Coquimatlan.svg", 0, 0, 600, 630);
-        }
-    </script>
+  <div class="appWrapper">
+    <header id="appHeader">
+      <h1>ParrotMap</h1>
+      <div onclick="navigateTo('home')" class="btn-primary">Go to Home.</div>
+      <div onclick="navigateTo('campuscoqui')" class="btn-primary">Go to Mapa Coqui.</div>
+      <div onclick="navigateTo('test')" class="btn-primary">Go to test.</div>
+    </header>
+    <main id="appContent">
+      
+    </main>
+  </div>
+  <script src="scripts.js"></script>
 </body>
 </html>

@@ -1,11 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
 :root{
   --text: #010904;
   --background: #ecfef5;
   --primary: #0ff083;
   --secondary: #7ef7f3;
-  --accent: #48ddf4;
+  --accent: #48ddf4;
 }
 
-body{
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body {
   background-color: var(--background);
+  color: var(--text);
+  font-size: 1rem;
+  overflow-x: hidden;
+}
+
+/* #################### Botones #################### */
+#appHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: var(--background);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+}
+
+/* #################### Botones #################### */
+.btn-primary {
+  background-color: var(--primary);
+  color: var(--text);
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: fit-content;
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary);
 }
