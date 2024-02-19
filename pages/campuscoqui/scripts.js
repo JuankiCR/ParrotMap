@@ -509,326 +509,182 @@ const loadMap = () => {
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 102.15423,186.33303 29.47886,4.91898 -2.04272,12.05302 -29.47895,-4.92925 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Facultrad de Ingeniería Civíl",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 79.554467,106.92621 29.070033,3.61838 -1.61835,12.79933 -29.070121,-3.62865 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 116.77222,116.99825 3.06227,-4.14693 24.97533,3.65669 1.5409,5.73694 -0.18785,5.2972 -2.36711,5.98958 -2.51643,4.12265 -25.11481,-4.0868 -0.78251,-4.62344 -0.12104,-6.27011 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "FExplanada FAYD",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 114.29066,136.64136 2.05899,0.25272 24.79032,3.68875 2.7038,0.44329 -2.12897,12.26914 -29.47879,-4.91896 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 156.10505,134.39905 30.28957,3.72276 -1.45069,11.64868 -30.2896,-3.72276 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 120.66109,97.838096 39.90492,5.422054 -1.75544,12.70791 -2.94725,-0.40053 -12.15015,-1.66131 -24.79786,-3.37055 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 187.11642,97.022115 3.93273,0.506665 18.32674,2.36805 -1.50953,11.59778 -3.00568,-0.38989 -14.54032,-1.87064 -0.60504,-0.0779 -4.11819,-0.53619 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 229.45717,88.017438 24.22779,2.707171 -1.99446,17.636021 -24.22776,-2.69693 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Centro de Investigaciones",
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 234.73681,136.94792 44.62246,30.70921 -8.27413,11.87011 -44.61273,-30.7093 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Bachillerato 18",
+      "facultad": "BACHI18"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 284.32642,80.475937 -10.28869,14.247995 -0.16039,-0.106398 -10.18747,14.107986 -0.0616,-0.041 -10.42306,14.43438 0.0737,0.049 -10.34545,14.32666 56.26617,37.34304 10.43542,-14.43416 -0.0822,-0.0544 10.11402,-13.98943 0.0534,0.0353 2.91362,-4.03039 29.75861,2.43207 0.70415,-4.57091 32.17395,20.06591 7.3653,-9.57328 -37.54911,-23.41298 -0.015,0.0885 -0.36907,-0.24491 -1.79469,-1.19089 -53.82112,-35.712417 -0.0123,0.01711 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.183222,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Estacionamiento Entrada 1",
+  
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 364.61995,170.01614 28.26772,3.18208 -1.64573,14.45197 -28.26772,-3.17183 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 327.45301,189.87503 38.02155,5.14719 -2.97053,21.71733 -38.03131,-5.13686 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
+      
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 327.57987,157.29806 25.27717,3.58248 -3.06132,21.27662 -25.27723,-3.58248 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 198.56873,82.266719 22.08197,2.588546 -1.4099,11.904994 -22.09166,-2.578218 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 171.85415,78.057568 17.64128,1.941715 -1.30451,11.63742 -17.63155,-1.941784 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 113.93583,77.542017 35.17006,4.541163 -1.69511,12.974338 -35.17015,-4.551425 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 141.17117,59.630015 23.87859,2.976546 -1.58099,12.552761 -23.88843,-2.986744 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 183.20596,54.353168 30.956,4.241557 -1.65337,11.947724 -17.80065,-2.43324 -13.16504,-1.797992 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 158.00361,20.482589 1.03838,0.711305 26.0956,17.72008 -13.86238,20.160247 -27.12425,-18.431473 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Estanques",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 92.948088,75.27425 15.026702,1.713428 -1.32533,11.452813 -2.22473,-0.251573 -12.801989,-1.461861 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 113.49285,5.9474642 6.6531,3.3720188 -3.90619,7.611496 5.24426,2.663258 -6.92742,13.472131 -5.41056,-2.744225 -1.82738,3.656064 0.93021,0.578625 -1.77064,3.399089 -4.07024,7.858942 -1.35023,-0.688643 -2.876684,5.61332 1.389364,0.708896 -9.399947,18.312907 -7.494611,-3.807581 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Estanques",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 115.43623,417.96029 -6.29775,29.02934 0.0655,0.19028 22.62042,19.89232 60.97144,32.57665 3.46215,1.84994 30.75163,16.43041 8.55924,-12.42126 0.96355,-1.39851 18.65461,-27.07213 2.74914,-23.02309 14.2831,-20.06418 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.110962,
-      "stroke-opacity": 1
+      "name": "Estacionamiento Entrada 2"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 71.316289,161.97177 c 0,6.16788 -5.000053,11.16793 -11.16793,11.16793 -6.167875,0 -11.167928,-5.00005 -11.167928,-11.16793 0,-6.16787 5.000053,-11.16793 11.167928,-11.16793 1.776531,0 3.45618,0.41481 4.94737,1.15286 1.727433,0.85497 3.201965,2.14371 4.281249,3.72386 1.22371,1.79161 1.939311,3.95784 1.939311,6.29121 z",
       "transform": "t-42.449944,-5.8734922",
-      "stroke-width": 0.110962
+      "name": "Monumento Entrada"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 65.69211,131.43392 -3.744322,9.36133 -0.235787,0.16364 a 16.571749,24.404384 14.876581 0 1 3.394317,0.68875 16.571749,24.404384 14.876581 0 1 7.999222,29.25191 16.571749,24.404384 14.876581 0 1 -22.968909,17.12196 16.571749,24.404384 14.876581 0 1 -3.243261,-2.01032 l -0.0105,0.10012 -1.579256,9.84072 -0.0022,0.0144 a 23.16768,34.117883 14.876581 0 0 1.851244,0.9564 23.16768,34.117883 14.876581 0 0 32.110919,-23.9368 23.16768,34.117883 14.876581 0 0 -11.183324,-40.89491 23.16768,34.117883 14.876581 0 0 -2.388061,-0.6571 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.155127,
-      "stroke-opacity": 1
+      "name": "Entrada"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 320.17802,253.93137 -20.83067,-2.88719 -1.92798,13.74973 20.83869,2.87706 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10
+      "name": "Edificio A",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 184.06318,185.81676 19.20423,3.05368 8.68601,-17.16845 -13.43618,-13.70762 -17.50775,8.82173 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147066,
-      "stroke-opacity": 1
+      "name": "Fuente Ornamental"
+      
     }
   ]
 
@@ -895,14 +751,14 @@ const loadMap = () => {
   };
 
   var FCQ = {
-    fill: "#a0cbad",
+    fill: "#ebcd8d",
     stroke: "#040708",
     "stroke-width": 1,
     "stroke-linejoin": "round"
   };
 
   var hoverFCQ = {
-    fill: "#86bda2",
+    fill: "#eebd52",
     stroke: "#040708",
     "stroke-width": 1,
     "stroke-linejoin": "round"
