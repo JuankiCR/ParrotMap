@@ -16,6 +16,7 @@ const navigateTo = (route) => {
         .then(response => response.text())
         .then(data => {
           appContent.innerHTML = data;
+        }).then(() => {
           loadMap();
         });
       break;
@@ -26,4 +27,4 @@ const navigateTo = (route) => {
   }
 }
 
-navigateTo('home');
+navigateTo('campuscoqui');
