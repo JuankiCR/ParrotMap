@@ -25,3 +25,5 @@ const navigateTo = (route) => {
         .then(data => appContent.innerHTML = data);
   }
 }
+
+navigateTo('home');
