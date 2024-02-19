@@ -591,6 +591,7 @@ const loadMap = () => {
     coqui[building].color = Raphael.getColor();
     (function (bd, building) {
       bd[0].style.cursor = "pointer";
+
       bd[0].onmouseover = function () {
         switch (svg[building].facultad) {
           case "FIME":
@@ -612,6 +613,7 @@ const loadMap = () => {
             bd.attr(hoverPUBLIC);
         }
       };
+
       bd[0].onmouseout = function () {
         switch (svg[building].facultad) {
           case "FIME":
@@ -633,6 +635,12 @@ const loadMap = () => {
             bd.attr(PUBLIC);
         }
       };
+
+      bd[0].onclick = function() {
+        // console.log(svg[building].name);
+        document.getElementById("nombreZona").textContent = svg[building].name;
+    };
+
     })(coqui[building], building);
   }
 }
