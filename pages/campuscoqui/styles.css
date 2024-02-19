@@ -1,0 +1,17 @@
+#mapLabel{
+    transition: max-width 1s ease-in-out;
+    color: transparent;
+    font-size: 1rem;
+    position: absolute;
+    border-radius: 8px;
+    white-space: nowrap;
+    max-width: 0px;
+    overflow: hidden;
+}
+
+#mapLabel.active{
+    max-width: 500px;
+    background-color: var(--primary);
+    color: var(--text);
+    padding: 4px 8px;
+}

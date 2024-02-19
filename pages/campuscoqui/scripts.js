@@ -612,6 +612,7 @@ const loadMap = () => {
           default:
             bd.attr(hoverPUBLIC);
         }
+        buildingLabelController(true, svg[building].name);
       };
 
       bd[0].onmouseout = function () {
@@ -634,6 +635,7 @@ const loadMap = () => {
           default:
             bd.attr(PUBLIC);
         }
+        buildingLabelController(false);
       };
 
       bd[0].onclick = function() {
@@ -642,5 +644,17 @@ const loadMap = () => {
     };
 
     })(coqui[building], building);
+  }
+}
+
+
+const buildingLabelController = (isShowing, label = "") => {
+  mapLabel = document.getElementById("mapLabel");
+  mapLabel.textContent = label;
+  isShowing ? mapLabel.classList.add("active") : mapLabel.classList.remove("active");
+  // etiqueta sigue el cursor
+  document.onmousemove = function(e){
+    mapLabel.style.left = e.pageX + 20 + 'px';
+    mapLabel.style.top = e.pageY + 20 + 'px';
   }
 }
