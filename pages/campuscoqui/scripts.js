@@ -5,279 +5,154 @@ const loadMap = () => {
       "path": "m 56.837735,327.19133 25.862554,3.60967 -1.95308,13.75611 -25.852893,-3.61999 z",
       "transform": "t-42.449944,-5.8734922",
       "name": "F",
+      "facultad": "FIC"
+    },
+    {
+      "type": "path",
+      "path": "m 212.41507,327.86754 30.10257,4.83242 -1.93648,11.89833 -30.10265,-4.84269 z",
+      "transform": "t-42.449944,-5.8734922",
+      "name": "F",
       "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
-      "path": "m 212.41507,327.86754 30.10257,4.83242 -1.93648,11.89833 -30.10265,-4.84269 z",
-      "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
-    },
-    {
-      "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 215.20244,351.81346 24.03861,3.4988 -1.70454,11.59912 -24.04845,-3.509 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Laboratorio de Brenda",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 171.7657,394.39722 1.85798,-7.7206 2.77627,-6.0437 -1.51289,-0.23591 1.49684,-9.19606 21.38609,3.42472 -1.60854,9.96657 -6.81359,-1.16425 0.35224,5.85798 -0.80339,7.94942 -1.5033,6.83547 -2.28406,6.72798 -13.26428,-2.01289 -0.49433,-6.66781 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Laboratorio 2",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 204.15131,372.47781 9.38941,1.42367 -0.40088,2.67126 7.73012,1.16819 0.20527,-1.3459 9.71144,1.4625 -4.09562,26.86699 -26.84074,-4.04408 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Laboratorio de Isaac",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 126.38745,384.3018 22.94786,3.68092 -3.31061,20.51877 -22.93813,-3.68096 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Laboratorio de Macatrónica",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 173.20357,410.67537 5.46583,0.83482 -1.18561,7.66468 -5.45608,-0.83491 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Laboratorio de Macatrónica",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 284.27743,344.05159 -0.98369,5.83635 -1.98085,2.60001 -1.28213,3.5497 0.0303,4.39252 1.2002,4.4049 1.05154,-0.20229 -0.79039,-2.95048 18.65201,2.85858 0.8218,-5.27092 -18.65199,-2.84816 0.60141,-3.28832 2.01747,-2.94916 15.05181,2.50334 0.49673,-2.92857 -0.74292,-3.11496 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Edificio C",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 248.59717,341.96706 22.02841,3.25599 -2.12539,14.19869 -22.02843,-3.25602 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Mecánica",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 242.53339,379.06168 35.88841,5.35372 -3.46267,23.34649 -35.88841,-5.35376 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.24215,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Canchas"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 282.7721,325.06427 16.3187,2.40232 -2.10635,14.12668 -16.32855,-2.41249 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "transform": "t-42.449944,-5.8734922",
+      "name": "Laboratorio de Electrónica",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 257.40397,321.05125 16.31869,2.40232 -2.10638,14.12668 -16.32846,-2.40225 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Taller de Máquinas",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 339.69865,245.07985 23.87065,3.19187 -3.20074,23.68948 -23.87061,-3.18161 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 402.60447,171.5287 31.12162,4.16831 -1.71636,12.69741 -31.13131,-4.15798 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 378.44002,193.3011 16.24802,2.064 -2.81332,21.89072 -16.25786,-2.07419 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 380.32427,221.99493 10.1492,1.32596 -0.93582,7.10874 -10.14911,-1.31571 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 304.13182,216.93591 26.13952,16.94983 -7.08245,10.774 -26.12976,-16.9499 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FCQ"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 244.2062,225.17903 18.83589,2.66212 -0.344,2.4348 -1.20887,8.52696 -1.51587,10.67411 -18.93343,-2.66147 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Dirección FIME",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 278.05374,265.62021 8.42289,-0.17083 7.19132,2.21875 -4.14739,33.49755 -7.86634,0.29024 -7.5828,-2.43164 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Explanada FIME",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 322.78473,272.3635 21.62155,3.6487 -1.99638,11.68324 -21.61174,-3.6385 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Edificio de Postgrado FIME",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 298.22989,250.80503 -20.83066,-2.88718 -1.92799,13.74973 20.83869,2.87706 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10
+      "name": "Baños FIME",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 267.76356,300.84823 45.6814,5.98758 -1.65023,12.39929 -45.6716,-5.97738 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Edificio B",
+      "facultad": "FIME"
     },
     {
       "type": "path",
@@ -288,224 +163,120 @@ const loadMap = () => {
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 223.71596,308.08408 21.15916,3.04646 -1.70368,11.7223 -21.16886,-3.03614 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Electromagnetismo",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 209.38267,299.47924 6.03199,0.93355 -2.56003,16.22353 -6.03198,-0.93354 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Cubiculos FIME",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 153.87567,300.9383 13.42404,1.14964 -0.0745,1.93005 1.33668,0.13446 0.90259,-3.44444 4.82783,1.63976 -0.51598,1.53279 2.22007,0.99057 0.20145,-0.48376 10.03169,4.08775 -0.71868,1.83182 3.11247,0.3173 0.15382,-1.73556 8.76039,0.69929 -0.0578,1.51937 3.6186,0.19059 -0.63018,10.45249 -4.82867,-0.34657 -0.43741,5.87368 -8.8001,-0.80166 0.55588,-7.0753 -5.0544,-0.56057 -3.0166,6.538 -8.4777,-3.54421 2.8881,-6.79368 -3.29684,-1.60924 -3.31579,-0.11075 -0.73168,7.03545 -9.09343,-0.92283 0.76417,-6.56354 -4.79089,-0.52131 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Postgrado Arquitectura",
+      "facultad": "FAYD"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 197.48599,276.5504 30.9107,4.68319 -1.76381,11.48665 -30.91064,-4.67294 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Edificio C",
+      "facultad": "FIME"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 164.13228,249.7766 -0.83676,0.26222 -0.71801,0.50779 -0.52164,0.70153 -0.27696,0.83329 0.006,0.87231 -1.39136,11.76132 0.27589,3.27207 1.20843,2.7422 2.01401,2.23398 2.60391,1.50102 2.94896,0.63651 10.14911,1.31594 0.94536,-0.0475 0.87512,-0.35499 0.69762,-0.63089 0.45252,-0.82419 0.14001,-0.92476 1.4384,-12.02833 -0.39292,-3.25082 -1.4826,-2.9353 -2.39456,-2.26215 -3.02199,-1.32374 -11.84042,-2.03286 v 0 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Servicios Estudiantiles",
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 95.306814,266.83505 -1.9492,12.90409 34.110836,5.01042 -1.2143,7.73677 10.83396,1.6703 1.21452,-7.73679 1.9297,-12.88351 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 66.0604,261.71929 15.977577,2.43564 -3.426481,22.11039 -15.977595,-2.43564 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 47.567069,273.45416 8.394742,1.41004 -0.937134,5.51789 -8.404493,-1.40998 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 93.131894,292.31341 14.688976,2.19814 -2.49958,16.52073 -14.698736,-2.19807 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 55.418608,288.05641 8.26779,1.38013 0.253014,-1.48994 5.739611,0.95615 -0.32785,1.95231 6.93047,1.15324 -1.124364,6.64815 -1.288506,-0.21697 -0.92759,5.48706 1.961998,0.32523 -0.824355,4.9013 -11.967281,-1.99107 1.7333,-10.26505 -9.644106,-1.60675 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 43.272404,213.11425 3.70815,0.45693 -0.181972,-0.94299 1.89311,0.23332 0.277355,-2.20853 5.406122,0.67106 -0.258897,2.05445 2.781097,0.34014 -0.184913,1.46892 3.415382,0.41789 -0.795068,6.32773 -2.761594,-0.34026 -0.489812,3.92398 -9.943708,-1.22493 0.582314,-4.65333 -4.196053,-0.51517 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 66.356949,215.43954 31.290631,4.66028 -1.809457,11.94878 -31.280906,-4.66037 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 83.38431,238.71295 31.29068,4.66026 -1.80938,11.95903 -31.281023,-4.67058 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 55.913675,236.60253 20.836663,2.95651 -1.702798,11.86594 -20.836672,-2.95652 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 129.14505,246.35285 20.83668,2.95642 -1.7125,11.86601 -20.82695,-2.95649 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 117.57441,222.61093 31.28091,4.66026 -1.80935,11.95905 -31.28101,-4.67052 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "F",
+      "facultad": "FIC"
     },
     {
       "type": "path",
-      "fill": "#0ff083",
-      "stroke": "#000000",
       "path": "m 214.01948,191.05539 18.41526,12.39479 -16.70007,24.36725 -18.31778,-12.39545 z",
       "transform": "t-42.449944,-5.8734922",
-      "fill-opacity": 1,
-      "stroke-width": 0.147949,
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
-      "stroke-miterlimit": 10,
-      "stroke-opacity": 1
+      "name": "Biblioteca",
     },
     {
       "type": "path",
