@@ -1,0 +1,11 @@
+[
+    {
+        "type": "path",
+        "path": "m 234.73681,136.94792 44.62246,30.70921 -8.27413,11.87011 -44.61273,-30.7093 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Bachillerato 18",
+        "facultad": "BACHI18",
+        "desc": "Bachillerato No. 18 Campus Coquimatlán",
+        "aulas": ["A1", "A2", "A3", "A4", "A5", "Modulo de Computo", "Laloratorio de Física"]
+    }
+]
