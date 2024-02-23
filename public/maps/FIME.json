@@ -1,0 +1,171 @@
+[
+    {
+        "type": "path",
+        "path": "m 244.2062,225.17903 18.83589,2.66212 -0.344,2.4348 -1.20887,8.52696 -1.51587,10.67411 -18.93343,-2.66147 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Dirección FIME",
+        "facultad": "FIME",
+        "desc": "Edificio central FIME | FCQ",
+        "aulas":["Direccion FIME", "Direccion FCQ", "Auditorio", "Centro De Computo FCQ", "Asesora Pedagógica FCQ"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 232.33219,292.06524 15.23673,2.45085 -1.9272,11.82642 -15.23675,-2.45082 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Auditorio",
+        "facultad": "FIME",
+        "desc": "Auditorio [NOMBRE]"
+    },
+
+    {
+        "type": "path",
+        "path": "m 223.71596,308.08408 21.15916,3.04646 -1.70368,11.7223 -21.16886,-3.03614 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Electromagnetismo",
+        "facultad": "FIME",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 298.22989,250.80503 -20.83066,-2.88718 -1.92799,13.74973 20.83869,2.87706 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Baños FIME",
+        "facultad": "FIME",
+        "desc": ""
+    },
+
+    {
+        "type": "path",
+        "path": "m 320.17802,253.93137 -20.83067,-2.88719 -1.92798,13.74973 20.83869,2.87706 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio A",
+        "facultad": "FIME",
+        "desc": "Segundo edificio de salones FIME",
+        "aulas":["A1", "A2"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 278.05374,265.62021 8.42289,-0.17083 7.19132,2.21875 -4.14739,33.49755 -7.86634,0.29024 -7.5828,-2.43164 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Explanada FIME",
+        "facultad": "FIME",
+        "desc": "Centro Social | interacción FIME"
+    },
+
+    {
+        "type": "path",
+        "path": "m 267.76356,300.84823 45.6814,5.98758 -1.65023,12.39929 -45.6716,-5.97738 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio B",
+        "facultad": "FIME",
+        "desc": "Segundo edificio de salones FIME",
+        "aulas":["B1", "B2", "B3","B4","B5", "B6", "B7"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 322.78473,272.3635 21.62155,3.6487 -1.99638,11.68324 -21.61174,-3.6385 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio de Postgrado FIME",
+        "facultad": "FIME",
+        "desc": "Quinto edificio de salones FIME",
+        "aulas":["P1", "P2", "P3", "P4"]
+    },
+    
+    {
+        "type": "path",
+        "path": "m 284.27743,344.05159 -0.98369,5.83635 -1.98085,2.60001 -1.28213,3.5497 0.0303,4.39252 1.2002,4.4049 1.05154,-0.20229 -0.79039,-2.95048 18.65201,2.85858 0.8218,-5.27092 -18.65199,-2.84816 0.60141,-3.28832 2.01747,-2.94916 15.05181,2.50334 0.49673,-2.92857 -0.74292,-3.11496 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio C",
+        "facultad": "FIME",
+        "desc": "Tercer edificio de salones FIME",
+        "aulas": ["C1", "C2", "C3", "C4", "C5"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 209.38267,299.47924 6.03199,0.93355 -2.56003,16.22353 -6.03198,-0.93354 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Cubiculos FIME",
+        "facultad": "FIME",
+        "desc": "Cubiculos de maestros"
+    },
+
+    {
+        "type": "path",
+        "path": "m 284.27743,344.05159 -0.98369,5.83635 -1.98085,2.60001 -1.28213,3.5497 0.0303,4.39252 1.2002,4.4049 1.05154,-0.20229 -0.79039,-2.95048 18.65201,2.85858 0.8218,-5.27092 -18.65199,-2.84816 0.60141,-3.28832 2.01747,-2.94916 15.05181,2.50334 0.49673,-2.92857 -0.74292,-3.11496 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio D",
+        "facultad": "FIME",
+        "desc": "Cuarto edificio de salones FIME",
+        "aulas": ["D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 212.41507,327.86754 30.10257,4.83242 -1.93648,11.89833 -30.10265,-4.84269 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Telefonía y Robótica",
+        "facultad": "FIME",
+        "desc": "Modulos y Laboratorios",
+        "aulas": ["Modulo de Telefonía", "laboratoria de Robótica"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 215.20244,351.81346 24.03861,3.4988 -1.70454,11.59912 -24.04845,-3.509 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Centro de Computo",
+        "facultad": "FIME",
+        "desc": "Modulos de computacion [encargada Brenda]",
+        "aulas": ["Modulo Computo 1", "Modulo Computo 2", "Cubículos PTC"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 248.59717,341.96706 22.02841,3.25599 -2.12539,14.19869 -22.02843,-3.25602 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Mecánica",
+        "facultad": "FIME" ,
+        "desc": ""
+    },
+
+    {
+        "type": "path",
+        "path": "m 282.7721,325.06427 16.3187,2.40232 -2.10635,14.12668 -16.32855,-2.41249 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Electrónica",
+        "facultad": "FIME",
+        "desc": ""
+    },
+
+    {
+        "type": "path",
+        "path": "m 257.40397,321.05125 16.31869,2.40232 -2.10638,14.12668 -16.32846,-2.40225 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Taller de Máquinas-Herramientas",
+        "facultad": "FIME",
+        "desc": ""
+    },
+
+    {
+        "type": "path",
+        "path": "m 204.15131,372.47781 9.38941,1.42367 -0.40088,2.67126 7.73012,1.16819 0.20527,-1.3459 9.71144,1.4625 -4.09562,26.86699 -26.84074,-4.04408 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorios FIME",
+        "facultad": "FIME",
+        "desc": "Laboratorios principales dentro de FIME",
+        "aulas": ["Laboratorio de Ingeniería en Software", "Laboratorio de Matemáticas", "Laboratorio de Computo", "Laboratorio de Microelectrónica ", "Cubículos", "Baños"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 126.38745,384.3018 22.94786,3.68092 -3.31061,20.51877 -22.93813,-3.68096 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Mecatrónica",
+        "facultad": "FIME"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "path",
+        "path": "m 304.13182,216.93591 26.13952,16.94983 -7.08245,10.774 -26.12976,-16.9499 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Edificio A",
+        "facultad": "FCQ",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 327.45301,189.87503 38.02155,5.14719 -2.97053,21.71733 -38.03131,-5.13686 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Multidisciplinario",
+        "facultad": "FCQ",
+        "desc":"Instalacion de Almacenamiento y Laboratorios",
+        "aulas":["Química Inorgánica", "Área de Destilación", "Laboratorio de Bacteriología", "Química Analítica", "Laboratorio de Fisioquímica", "Almacen de Reactivos", "Almacen de Material", "Laboratorio de Química Orgnánica", "Laboratorio de Física", "Baños"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 380.32427,221.99493 10.1492,1.32596 -0.93582,7.10874 -10.14911,-1.31571 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Baños",
+        "facultad": "FCQ",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 378.44002,193.3011 16.24802,2.064 -2.81332,21.89072 -16.25786,-2.07419 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Farmacia",
+        "facultad": "FCQ",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 327.57987,157.29806 25.27717,3.58248 -3.06132,21.27662 -25.27723,-3.58248 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Análisis Clinícos",
+        "facultad": "FCQ",
+        "desc":"",
+        "aulas":["Toma de Muestras", "Baños"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 364.61995,170.01614 28.26772,3.18208 -1.64573,14.45197 -28.26772,-3.17183 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Cubículos",
+        "facultad": "FCQ",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 402.60447,171.5287 31.12162,4.16831 -1.71636,12.69741 -31.13131,-4.15798 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Operaciones Unitarias",
+        "facultad": "FCQ",
+        "desc":""
+    },
+
+    {
+        "type": "path",
+        "path": "m 339.69865,245.07985 23.87065,3.19187 -3.20074,23.68948 -23.87061,-3.18161 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Laboratorio de Alimentos",
+        "facultad": "FCQ",
+        "desc": "",
+        "aulas": ["fisicoquímicos", "Proceesos- Análisis Proximal", "Control de Calidad", "Laboratorio de Prácticas", "Cereales", "Cubiculos", "Materias Primas", "Baños"]
+    },
+
+    {
+        "type": "path",
+        "path": "m 171.7657,394.39722 1.85798,-7.7206 2.77627,-6.0437 -1.51289,-0.23591 1.49684,-9.19606 21.38609,3.42472 -1.60854,9.96657 -6.81359,-1.16425 0.35224,5.85798 -0.80339,7.94942 -1.5033,6.83547 -2.28406,6.72798 -13.26428,-2.01289 -0.49433,-6.66781 z",
+        "transform": "t-42.449944,-5.8734922",
+        "name": "Postgrado Facultad de Ciencias Químicas",
+        "facultad": "FCQ",
+        "desc": "Laboratorios de Ingeniería QUímica",
+        "aulas": ["Laboratorio de Química Supramolecular", "Laboratorio de Productos Naturales", "Laboratorio de QUímica de Coordinación Organondal ", "Almacén de Productos Químicos", "Laboratorio Química Teórica", "Laboratorio de Análisis Elemental y Cromatografía de Gases", "Cubículos","Laboratorio de HOCL-Masas", "Laboratorio de Difracción de Rayos X", "Laboratorio de Resonancia Magnética Nuclear", "Laboratorio de Ingeniería de Materiales","Laboratorio de Catálisis", "Laboratorio de productos Biológicos", "Zona de Descanso", "Almacen General","", "Cubículos","Laboratorio de Química Analítica", "Sala de Usos Multiples", "salones", "Baños"]
+    }
+]
